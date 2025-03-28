@@ -1,4 +1,8 @@
 fun main() {
+    // Escreva um programa que calcule a média de quatro números informados pelo usuário, mas somente se esses números forem maiores que 0 e menores que 10. No final, 
+    //se a média for maior que cinco o usuário receberá uma mensagem "Você passou no teste". 
+    //Em qualquer outra situação, ele receberá uma mensagem de "tente novamente"
+    
     val numeros = mutableListOf<Double>()
     var contador = 1
 
