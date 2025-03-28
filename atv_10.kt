@@ -1,4 +1,7 @@
 fun main() {
+   // Tendo como entrada a altura e o gênero designado ao nascer (codificado da seguinte forma: 1: feminino - 2: masculino - ) de uma pessoa,
+    //construa um programa que calcule e imprima seu peso ideal, utilizando as seguintes fórmulas.
+    
     println("Calculadora de Peso Ideal")
     println("--------------------------")
 
